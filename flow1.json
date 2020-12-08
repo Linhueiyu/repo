@@ -1,0 +1,1 @@
+[{"id":"f3ced0b0.de04c","type":"rpi-gpio out","z":"a24e7520.23de88","name":"Green LED","pin":"11","set":false,"level":"0","freq":"","out":"out","x":580,"y":260,"wires":[]}]
